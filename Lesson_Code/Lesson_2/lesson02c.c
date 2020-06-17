@@ -1,7 +1,7 @@
-/** example02a.c
+/** lesson02c.c
 * ===========================================================
-* Name: Lt Col Traci A. Sarmiento / Fall 19
-* Section:
+* Name: Col Brian J. Neff
+* Section: Summer 2020 ECE 499
 * Project: Lesson 2
 * Purpose: Learn Variables, Arithmetic Expressions,
 * Order of Operations, and Console I/O
